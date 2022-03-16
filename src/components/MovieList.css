@@ -1,0 +1,11 @@
+.movies-list{
+    width: 1100px;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: space-between;
+}
+.movies-list > img{
+    margin-bottom: 150px;
+}
